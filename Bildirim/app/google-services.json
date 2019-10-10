@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "115964937529",
+    "firebase_url": "https://bildirim-fff8a.firebaseio.com",
+    "project_id": "bildirim-fff8a",
+    "storage_bucket": "bildirim-fff8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115964937529:android:21f1186f2b4925cb",
+        "android_client_info": {
+          "package_name": "com.example.amonsis.android.bildirim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115964937529-ljpqbvc4lf5b33a8p7vkjpqm12mi6dqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amonsis.android.bildirim",
+            "certificate_hash": "A956C6575C028BEABE584E820719E3AFC2E378D5"
+          }
+        },
+        {
+          "client_id": "115964937529-u8083ijskhchl2mq3q0hnd0k6efkd4pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWWgdugbEKkhgUjVBcPyzQwl-B5pOex9M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115964937529-u8083ijskhchl2mq3q0hnd0k6efkd4pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
